@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20Nurullah&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Hi%20I'm%20Nurullah&fontSize=40&animation=typing" width="100%" />
 </div>
 
 <br />
@@ -35,7 +35,7 @@
       <strong>Frontend</strong><br/><br/>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=typescript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/typescript-%23F7DF1E.svg?style=flat&logo=typescript&logoColor=black" /><br/>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
     </td>
     <td valign="top" width="33%">
