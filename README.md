@@ -33,10 +33,10 @@
   <tr>
     <td valign="top" width="33%">
       <strong>Frontend</strong><br/><br/>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/typescript-%23F7DF1E.svg?style=flat&logo=typescript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
     </td>
     <td valign="top" width="33%">
       <strong>Backend & Core</strong><br/><br/>
