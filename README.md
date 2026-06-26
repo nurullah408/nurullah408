@@ -29,7 +29,7 @@
 
 ### 🛠️ Tech Stack & Capabilities
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="33%">
       <strong>Frontend</strong><br/><br/>
