@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&height=150&section=header&text=Hi%20I'm%20Nurullah&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=Nurullah&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient" width="100%" />
 </div>
 
 <br />
 
-<table>
+<table width="100%">
   <tr>
-    <!-- Left Column: About Me Text -->
     <td width="55%" valign="top">
       <h3>Welcome to My Profile!</h3>
       <p>
@@ -18,9 +17,8 @@
         💬 &nbsp; <b>Ask me about:</b> Web optimization, structural code design, or modern frameworks.
       </p>
     </td>
-    <!-- Right Column: Stats with Hidden Grade -->
-    <td width="45%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=nurullah408&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" width="100%" alt="Nurullah's GitHub Stats" >
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=nurullah408&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" width="90%" alt="Nurullah's GitHub Stats" >
     </td>
   </tr>
 </table>
@@ -32,30 +30,24 @@
 <table width="100%">
   <tr>
     <td valign="top" width="33%">
-      <strong>Frontend</strong><br/><br/>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+      <h4>Frontend</h4>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
     </td>
     <td valign="top" width="33%">
-      <strong>Backend & Core</strong><br/><br/>
+      <h4>Backend & Core</h4>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
     </td>
     <td valign="top" width="33%">
-      <strong>Tools & DevOps</strong><br/><br/>
+      <h4>Tools & DevOps</h4>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
     </td>
   </tr>
 </table>
-
----
-
-### 📂 Featured Projects
-<!-- Swap these out with your actual project names and descriptions! -->
-- 🌟 **[Sync Notes](https://github.com/nurullah408/SyncedNotes)** - This is the backend of the Sync Notes application allowing users of all devices to sync their content across their devices, why? because notion has too many features and that gets overwhelming.
-- 🚀 **[Rick and Morty website](https://github.com/nurullah408/Rick-and-Morty)** - This is a NestJS application leveraging GraphQL and Motion to query and present characters, locations and episodes from the show 'Rick & Morty'.
 
 ---
 
