@@ -18,8 +18,9 @@
         💬 &nbsp; <b>Ask me about:</b> Web optimization, structural code design, or modern frameworks.
       </p>
     </td>
+    <!-- Right Column: Stats with Hidden Grade -->
     <td width="45%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=nurullah408&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="Nurullah's GitHub Stats" >
+      <img src="https://github-readme-stats.vercel.app/api?username=nurullah408&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" width="100%" alt="Nurullah's GitHub Stats" >
     </td>
   </tr>
 </table>
@@ -28,21 +29,33 @@
 
 ### 🛠️ Tech Stack & Capabilities
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Frontend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=typescript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>Backend & Core</strong><br/><br/>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" /><br/>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Tools & DevOps</strong><br/><br/>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Backend / Core -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+---
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+### 📂 Featured Projects
+<!-- Swap these out with your actual project names and descriptions! -->
+- 🌟 **[Sync Notes](https://github.com/nurullah408/SyncedNotes)** - This is the backend of the Sync Notes application allowing users of all devices to sync their content across their devices, why? because notion has too many features and that gets overwhelming.
+- 🚀 **[Rick and Morty website](https://github.com/nurullah408/Rick-and-Morty)** - This is a NestJS application leveraging GraphQL and Motion to query and present characters, locations and episodes from the show 'Rick & Morty'.
 
 ---
 
