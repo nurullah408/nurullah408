@@ -4,23 +4,34 @@
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>Welcome to My Profile!</h3>
-      <p>
-        I'm a passionate developer focused on building clean, efficient, and user-centric digital experiences. I enjoy tackling complex logic challenges and continuously refining my engineering skills.
-      </p>
-      <p>
-        🌱 &nbsp; <b>Currently learning:</b> Advanced system architecture and cloud integrations.<br/>
-        🚀 &nbsp; <b>Looking to collaborate on:</b> Open-source tools and scalable web applications.<br/>
-        💬 &nbsp; <b>Ask me about:</b> Web optimization, structural code design, or modern frameworks.
-      </p>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=nurullah408&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" width="90%" alt="Nurullah's GitHub Stats" >
-    </td>
-  </tr>
+### 🛠️ Tech Stack & Capabilities
+
+<table>
+  <thead>
+    <tr>
+      <th width="33.3%" align="left">Frontend</th>
+      <th width="33.3%" align="left">Backend & Core</th>
+      <th width="33.3%" align="left">Tools & DevOps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
